@@ -1,0 +1,7 @@
+material,plant,poNumber,poItem,supplier,supplierName,materialName,buyer,stockOnHand,shortfallQty,supplierCount,needInDays,poInDays
+RM-100234,PN01,4500012301,00010,S1001,Apex Brake Systems,Brake Caliper RH,R. Kulkarni,120,600,1,2,6
+RM-100871,PN01,4500012302,00010,S1002,Meridian Harness Co,Wiring Harness Main,S. Deshmukh,340,400,2,3,7
+RM-200415,SN01,4500012303,00020,S1003,Vertex Electronics,Fuel Pump Module,A. Patel,80,250,1,1,1
+RM-300102,SN01,4500012304,00010,S1004,Zenith Wheels,Alloy Wheel 16in,N. Shah,900,800,3,9,12
+RM-400556,JS01,4500012305,00010,S1005,Orion Interiors,Dashboard Assembly,P. Singh,40,90,1,4,5
+RM-500777,PN01,4500012306,00010,S1003,Vertex Electronics,ECU Engine Management,R. Kulkarni,15,300,1,0,8

@@ -1,0 +1,7 @@
+factor,configValue,description
+TIME,40,Weight: days left until the need date
+ETA,30,Weight: gap between supplier ETA and need date
+SINGLE,15,Weight: single-source part
+SUPPLIER,15,Weight: supplier history of missed commitments
+RED_AT,70,Score at or above this is Red
+AMBER_AT,40,Score at or above this is Amber

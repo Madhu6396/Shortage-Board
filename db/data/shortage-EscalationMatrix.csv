@@ -1,0 +1,16 @@
+plant,riskLevel,escLevel,roleName,afterHours
+PN01,Red,1,Procurement Lead,0
+PN01,Red,2,Plant Head,4
+PN01,Red,3,VP Manufacturing,24
+PN01,Amber,1,Procurement Lead,8
+PN01,Amber,2,Plant Head,24
+SN01,Red,1,Procurement Lead,0
+SN01,Red,2,Plant Head,4
+SN01,Red,3,VP Manufacturing,24
+SN01,Amber,1,Procurement Lead,8
+SN01,Amber,2,Plant Head,24
+JS01,Red,1,Procurement Lead,0
+JS01,Red,2,Plant Head,4
+JS01,Red,3,VP Manufacturing,24
+JS01,Amber,1,Procurement Lead,8
+JS01,Amber,2,Plant Head,24
